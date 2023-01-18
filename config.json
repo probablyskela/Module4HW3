@@ -1,0 +1,3 @@
+﻿{
+  "DBConnectionString": "Server=localhost;Database=db;Trusted_Connection=True;TrustServerCertificate=True;"
+}
